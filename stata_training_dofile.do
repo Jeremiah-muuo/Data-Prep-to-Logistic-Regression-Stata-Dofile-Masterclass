@@ -1,4 +1,4 @@
-use "C:\Users\ABBY\Desktop\stata\STATA training materials\datasets\stidata-unclean.dta", clear
+use "C:\Users\JEREMIAH\Desktop\stata\STATA training materials\datasets\stidata-unclean.dta", clear
 *describe command describes data in the memory
 describe
 tabulate a1age a2occupation  
